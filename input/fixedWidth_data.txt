@@ -1,0 +1,5 @@
+B56 apple     TRUE 0560
+H45 pear      FALSE1340
+B34 rasberry  TRUE 2430
+G53 cherry    FALSE1310
+B23 orange    FALSE2320

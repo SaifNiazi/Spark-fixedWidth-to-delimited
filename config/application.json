@@ -1,0 +1,22 @@
+{
+   "appConfig" :  {
+      "inputFilePath" : "input/",
+      "outputFilePath" : "output/",
+      "FileSourceSystem" : "TET",
+      "FileName" : "fixedWidth_data.txt" ,
+      "numOfPartitions" : "20",
+      "RecordTypes" : "H,B,G",
+      "IgnoredRecordTypes": "G" ,
+      "SecureLandingArea": "",
+      "Delimiter" : "|",
+      "outputFilePrefix": "tet_type"
+   } ,
+   "recordTypeLength": {
+      "recordType_H" : 23,
+      "recordType_B" : 23,
+      "recordType_D" : 23,
+      "recordType_G" : 23
+    },
+  "tetColumns": {
+  } 
+}
